@@ -1,8 +1,6 @@
 <div align="center">
 
-# Papa Magatte Diop
-
-### 📊 Data Scientist · Statisticien-Économiste · ENSAE Dakar 🇸🇳
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:178BCA&height=200&section=header&text=Papa%20Magatte%20Diop&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Statisticien-Economiste%20%7C%20ENSAE%20Dakar&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning;Intelligence+Artificielle+%26+RAG;Solutions+data+pour+l'Afrique;Etudiant+a+l'ENSAE+Dakar)](https://git.io/typing-svg)
 
@@ -87,7 +85,12 @@ Statisticien-économiste en formation à l'**ENSAE Dakar**, je construis des sol
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=papamagattediop&theme=default&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&locale=fr)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papamagattediop&layout=compact&langs_count=8&hide_border=true&title_color=1D9E75)
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=papamagattediop&theme=default&exclude=)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=papamagattediop&theme=default)
 
 </div>
 
@@ -122,5 +125,7 @@ Statisticien-économiste en formation à l'**ENSAE Dakar**, je construis des sol
 💼 **Disponible pour stages, travail, missions freelance et collaborations**
 
 🇸🇳 *Dakar, Sénégal — ENSAE Dakar*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:178BCA,100:1D9E75&height=100&section=footer" width="100%"/>
 
 </div>
