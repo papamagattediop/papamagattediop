@@ -14,16 +14,23 @@
 
 Statisticien-économiste en formation à l'**ENSAE Dakar**, je construis des solutions data à fort impact pour l'Afrique de l'Ouest. Je travaille à l'intersection de la **data science**, de l'**intelligence artificielle** et des **politiques publiques**, avec une conviction : les données doivent servir le développement.
 
-```python
-profil = {
-    "nom"         : "Papa Magatte Diop",
-    "formation"   : "ENSAE Dakar — Mathématique, Statistique & Économie",
-    "localisation": "Dakar, Sénégal 🇸🇳",
-    "intérêts"    : ["Machine Learning", "NLP / RAG", "Big Data", "DataViz",
-                     "IA", "MEAL", "BI", "Dashboard", "Reporting"],
-    "disponible"  : True  # Ouvert aux stages & collaborations
-}
-```
+<br/>
+
+<div align="center">
+
+| 🎓 Formation | 📐 Spécialité | 📍 Localisation | 🤝 Ouvert à |
+|:---:|:---:|:---:|:---:|
+| ENSAE Dakar | Maths · Stat · Éco | 🇸🇳 Dakar, Sénégal | Stages · Freelance · Collab |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`Machine Learning` &nbsp;&nbsp; `NLP / RAG` &nbsp;&nbsp; `Big Data` &nbsp;&nbsp; `DataViz` &nbsp;&nbsp; `BI & Dashboard` &nbsp;&nbsp; `MEAL` &nbsp;&nbsp; `Reporting` &nbsp;&nbsp; `IA`
+
+</div>
 
 ---
 
