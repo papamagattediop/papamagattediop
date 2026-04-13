@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:178BCA&height=200&section=header&text=Papa%20Magatte%20Diop&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Analytste-Statisticien%20%7C%20ENSAE%20Dakar&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:178BCA&height=200&section=header&text=Papa%20Magatte%20Diop&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Analyste-Statisticien%20%7C%20ENSAE%20Dakar&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Data+Science+%26+Machine+Learning;Intelligence+Artificielle+%26+RAG;Solutions+data+pour+l'Afrique;Etudiant+a+l'ENSAE+Dakar)](https://git.io/typing-svg)
 
