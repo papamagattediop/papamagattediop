@@ -10,7 +10,7 @@
 
 ## 👤 À propos de moi
 
-Statisticien-économiste en formation à l'**ENSAE Dakar**, je construis des solutions data à fort impact pour l'Afrique de l'Ouest. Je travaille à l'intersection de la **data science**, de l'**intelligence artificielle** et des **politiques publiques**, avec une conviction : les données doivent servir le développement.
+Analyste Statisticien option Data science de formation à l'**ENSAE Dakar**, je construis des solutions data à fort impact pour l'Afrique de l'Ouest. Je travaille à l'intersection de la **data science**, de l'**intelligence artificielle** et des **politiques publiques**, avec une conviction : les données doivent servir le développement.
 
 <br/>
 
