@@ -114,7 +114,7 @@ profil = {
 
 💼 **Disponible pour stages, missions freelance et collaborations académiques**
 
-🇸🇳 *Dakar, Sénégal — ENSAE Dakar*
+🇸🇳 *Dakar, Sénégal, ENSAE Dakar*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:178BCA,100:1D9E75&height=100&section=footer" width="100%"/>
 
